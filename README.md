@@ -4,6 +4,7 @@
 
 ## Technologies Used:
 - Python
+- Java
 - Libraries of Python viz Sklearn, Pandas, NumPy etc. 
 - UI Framework is PyQT5
 - Web Framework is Flask
